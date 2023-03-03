@@ -23,7 +23,7 @@
 
 ---
 
-### 💻 Codewars:
+### 💻 <a href="https://www.codewars.com/users/artemyambarshev">Codewars</a>:
 
 ![codewars](https://www.codewars.com/users/artemyambarshev/badges/large)
 
