@@ -27,6 +27,10 @@
 
 ![codewars](https://www.codewars.com/users/artemyambarshev/badges/large)
 
+### 💻 <a href="https://leetcode.com/hydrartew/">Leetcode</a>:
+
+[![LeetCodestats](https://leetcode-stats-six.vercel.app/api?username=hydrartew)](https://github.com/hydrartew/leetcode)
+
 ---
 
 ### ⚙️ GitHub статистика:
