@@ -6,7 +6,7 @@
 
 ### 💻 <a href="https://leetcode.com/hydrartew/">Leetcode</a>:
 
-![LeetCodestats](https://leetcode-stats-six.vercel.app/api?username=hydrartew&theme=dark)](https://leetcode.com/hydrartew/)
+![[LeetCodestats](https://leetcode-stats-six.vercel.app/api?username=hydrartew&theme=dark)](https://leetcode.com/hydrartew/)
 
 ---
 
